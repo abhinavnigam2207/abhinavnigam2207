@@ -1,5 +1,3 @@
-<img align="center" alt="Abhinav" width="100%" src="https://res.cloudinary.com/practicaldev/image/fetch/s--3h2XFVlf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/sk4630sbmhy6v3hij93a.jpeg" />
-
 ### Hey there 👋, Its Abhinav Nigam - aka *abhinavnigam2207*
 
 ## Frontend Developer | Javascript enthusiast | Technology Evangelist
