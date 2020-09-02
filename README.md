@@ -2,7 +2,7 @@
 
 ## Frontend Developer | Javascript enthusiast | Technology Evangelist
 
-## I'm a Software Engineer, a dance lover, an EDM freak, a traveller and a freelancer !
+## I'm a Software Engineer, a dancer, an EDM freak, a traveller and a freelancer !
 
 - 🔭 I’m currently working with Jio on Jio.com projects.
 - 🌱 I’m currently learning everything 🤣
