@@ -13,7 +13,8 @@
   - Angular
   - EmberJs
 - 👯 I’m looking to collaborate with other content creators or developers.
-- 🥅 2020 Goals: 
+- 🥅 2021 Goals: 
+	- Work more on NodeJs to get better hands on Backend.
 	- Contribute more to Open Source projects
 	- Document my learnings to my blog
 
