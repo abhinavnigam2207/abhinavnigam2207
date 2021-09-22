@@ -50,4 +50,3 @@
 [instagram]: https://www.instagram.com/abhinavnigam2207
 [linkedin]: https://linkedin.com/in/abhinavnigam2207
 [facebook]: https://www.facebook.com/abhinavnigam2207
-[devto]: https://dev.to/abhinavnigam2207
