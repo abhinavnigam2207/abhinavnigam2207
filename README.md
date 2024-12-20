@@ -2,9 +2,13 @@
 
 ## Frontend Developer | Javascript enthusiast | Technology Evangelist
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=abhinavnigam2207&label=Profile%20Views&color=0&icon=0&pretty=false" />
+</a>
+
 ## I'm a Software Engineer, a dancer, an EDM freak, a traveller and a freelancer !
 
-- 🔭 I’m currently working with Jio on Jio.com projects.
+- 🔭 I’m currently working on personal projects an dpersonal growth.
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about:
   - Javascript
@@ -13,7 +17,7 @@
   - Angular
   - EmberJs
 - 👯 I’m looking to collaborate with other content creators or developers.
-- 🥅 2021 Goals: 
+- 🥅 2025 Goals: 
 	- Work more on NodeJs to get better hands on Backend.
 	- Contribute more to Open Source projects
 	- Document my learnings to my blog
@@ -23,6 +27,7 @@
 [<img align="left" alt="abhinav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="abhinav | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="abhinav | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />][facebook]
+[<img align="left" alt="abhinav | twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/twitter" />][twitter]
 <br />
 
 ### Languages and Tools:
@@ -48,4 +53,5 @@
 [instagram]: https://www.instagram.com/abhinavnigam2207
 [linkedin]: https://linkedin.com/in/abhinavnigam2207
 [facebook]: https://www.facebook.com/abhinavnigam2207
+[twitter]: https://x.com/abhinavnigm2207
 [devto]: https://dev.to/abhinavnigam2207
